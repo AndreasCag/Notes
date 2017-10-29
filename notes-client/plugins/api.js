@@ -1,5 +1,4 @@
 import axios from 'axios';
-import Vue from 'vue';
 
 var options = {};
 // The server-side needs a full url to works
